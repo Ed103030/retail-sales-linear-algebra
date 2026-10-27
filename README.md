@@ -64,6 +64,13 @@ D  log-log:                   R2=1.0000  RMSE=0.00
 E  time + region + category:  R2=0.1109  RMSE=339.31
 Naive mean baseline R2: -0.0877
 ```
+**Figures**
+
+![Daily sales](figures/sales_trend.png)
+![Monthly sales](figures/monthly_sales.png)
+![Sales by region](figures/sales_by_region.png)
+![Correlation matrix](figures/correlation.png)
+![Model E diagnostics](figures/diagnostics.png)
 
 ### 1. Exploratory analysis
 | Observation | Evidence |
